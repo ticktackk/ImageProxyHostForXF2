@@ -1,0 +1,1 @@
+If you specify a host here, it will be appended to  "proxy..php" when displaying proxied images. You may want to do this if you wish your proxied images to be served from a separate cache or cdn from your normal website.

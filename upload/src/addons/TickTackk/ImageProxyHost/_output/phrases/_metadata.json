@@ -1,0 +1,26 @@
+{
+    "option.bfp_ignoressl.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "86d0820d1d3cb6a377645f89a65393a7"
+    },
+    "option.bfp_proxyhost.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "9f7a0c83f30f9473548d1e7ee54add04"
+    },
+    "option_explain.bfp_ignoressl.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "59f49834702a47e2d899589f154b3e0c"
+    },
+    "option_explain.bfp_proxyhost.txt": {
+        "global_cache": false,
+        "version_id": 2000070,
+        "version_string": "2.0.0",
+        "hash": "7d63df9110c87f13bba26e2d62231a9b"
+    }
+}

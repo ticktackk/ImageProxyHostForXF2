@@ -1,0 +1,1 @@
+If you are using proxy functionality only so that your site can run under ssl, check this box to bypass proxying of images which come from a source which is delivered via https. Note that if the source image redirects to an insecure source or the https certificate of the source image is invalid, you may still have issues with your site appearing to be insecure
