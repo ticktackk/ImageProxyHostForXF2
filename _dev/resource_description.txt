@@ -1,0 +1,33 @@
+[SIZE=6][B]Image Proxy Host for XenForo 2.0.0 Alpha+[/B][/SIZE]
+
+[SIZE=5][B]Description[/B][/SIZE]
+This add-on allows you to not proxy external images which are already using HTTPS or set a host for image proxy links.
+
+[SIZE=5][B]Requirements[/B][/SIZE]
+[LIST]
+[*]PHP 5.6.0+
+[/LIST]
+
+[SIZE=5][B]Options[/B][/SIZE]
+
+[SIZE=3][B]Image and link proxy[/B][/SIZE]
+[TABLE]
+[TR]
+[TH]Name[/TH]
+[TH]Description[/TH]
+[/TR]
+[TR]
+[TD]Ignore https images[/TD]
+[TD]If you are using proxy functionality only so that your site can run under ssl, check this box to bypass proxying of images which come from a source which is delivered via https. Note that if the source image redirects to an insecure source or the https certificate of the source image is invalid, you may still have issues with your site appearing to be insecure[/TD]
+[/TR]
+[TR]
+[TD]Host for serving proxied images[/TD]
+[TD]If you specify a host here, it will be appended to "proxy..php" when displaying proxied images. You may want to do this if you wish your proxied images to be served from a separate cache or cdn from your normal website.[/TD]
+[/TR]
+[/TABLE]
+
+[SIZE=5][B]Credits[/B][/SIZE]
+Original add-on for XenForo 1 developed by by [URL='https://xenforo.com/community/members/25006/']Jim Boy[/URL]
+
+[SIZE=5][B]License[/B][/SIZE]
+This project is licensed under the MIT License - see the [URL='https://github.com/ticktackk/ImageProxyHostForXF2/blob/master/LICENSE.md']LICENSE.md[/URL] file for details.
