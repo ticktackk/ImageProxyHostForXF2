@@ -2,15 +2,14 @@
     "legacy_addon_id": "BigFootyProxyHost",
     "title": "Image Proxy Host",
     "description": "This add-on allows you to not proxy external images which are already using HTTPS or set a host for image proxy links.",
-    "version_id": 2000070,
-    "version_string": "2.0.0",
+    "version_id": 2000170,
+    "version_string": "2.0.1",
     "dev": "TickTackk",
     "dev_url": "https://xenforo.com/community/members/batpool52.90375/",
     "faq_url": "",
     "support_url": "https://xenforo.com/community/threads/imageproxy-host.143055/",
     "extra_urls": {
-        "Twitter": "https://twitter.com/t1cktackk",
-        "Discord": "https://discord.gg/qdwgUpP"
+        "Twitter": "https://twitter.com/t1cktackk"
     },
     "require": {
         "XF": [
