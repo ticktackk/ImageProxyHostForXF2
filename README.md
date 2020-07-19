@@ -24,7 +24,9 @@ Options
 Credits
 -------
 
-Original add-on for XenForo 1 developed by by [Jim Boy](https://xenforo.com/community/members/25006/)License
+Original add-on for XenForo 1 developed by by [Jim Boy](https://xenforo.com/community/members/25006/)
+
+License
 -------
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ticktackk/ImageProxyHostForXF2/blob/master/LICENSE.md) file for details.
